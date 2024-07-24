@@ -1,10 +1,1 @@
-4. Essential Git Commands
-git init
-Initializes a new Git repository in the current directory.
-
-git init
-git clone
-Creates a copy of a remote repository on your local machine.
-
-git clone https://github.com/username/repository.git
-git add
+/////////////////////////////////////
